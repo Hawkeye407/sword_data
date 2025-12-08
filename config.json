@@ -9,7 +9,7 @@
       "model_price": 220,
       "model_vat": "46,2",
       "model_photo": "",
-      "model_vizualization": "",
+      "model_visualization": "",
       "label": ""
     }
   ],
@@ -75,7 +75,7 @@
       "crossguard_price": 0,
       "crossguard_vat": "0",
       "crossguard_photo": "photos/standard.png",
-      "crossguard_vizualization": "vizualization/vz_standard.png",
+      "crossguard_visualization": "visualization/vz_standard.png",
       "label": "recommended"
     },
     {
@@ -87,7 +87,7 @@
       "crossguard_price": 15,
       "crossguard_vat": "3,15",
       "crossguard_photo": "photos/twisted.png",
-      "crossguard_vizualization": "vizualization/vz_twisted.png",
+      "crossguard_visualization": "visualization/vz_twisted.png",
       "label": ""
     },
     {
@@ -99,7 +99,7 @@
       "crossguard_price": 15,
       "crossguard_vat": "3,15",
       "crossguard_photo": "photos/waved.png",
-      "crossguard_vizualization": "vizualization/vz_waved.png",
+      "crossguard_visualization": "visualization/vz_waved.png",
       "label": ""
     },
     {
@@ -111,7 +111,7 @@
       "crossguard_price": 40,
       "crossguard_vat": "8,4",
       "crossguard_photo": "photos/cylindrical.png",
-      "crossguard_vizualization": "vizualization/vz_cylindrical.png",
+      "crossguard_visualization": "visualization/vz_cylindrical.png",
       "label": ""
     }
   ],
@@ -125,7 +125,7 @@
       "schilt_price": 0,
       "schilt_vat": 0,
       "schilt_photo": "photos/wide.png",
-      "schilt_vizualization": "vizualization/vz_wide.png",
+      "schilt_visualization": "visualization/vz_wide.png",
       "label": "recommended"
     },
     {
@@ -137,7 +137,7 @@
       "schilt_price": 0,
       "schilt_vat": 0,
       "schilt_photo": "photos/italian.png",
-      "schilt_vizualization": "vizualization/vz_italian.png",
+      "schilt_visualization": "visualization/vz_italian.png",
       "label": ""
     },
     {
@@ -149,7 +149,7 @@
       "schilt_price": 0,
       "schilt_vat": 0,
       "schilt_photo": "photos/spiky.png",
-      "schilt_vizualization": "vizualization/vz_spiky.png",
+      "schilt_visualization": "visualization/vz_spiky.png",
       "label": ""
     },
     {
@@ -161,7 +161,7 @@
       "schilt_price": 0,
       "schilt_vat": 0,
       "schilt_photo": "photos/schitless.png",
-      "schilt_vizualization": "vizualization/vz_schitless.png",
+      "schilt_visualization": "visualization/vz_schitless.png",
       "label": ""
     }
   ],
@@ -305,7 +305,7 @@
       "blade_price": 0,
       "blade_vat": 0,
       "blade_photo": "",
-      "blade_vizualization": "vizualization/vz_blade.png",
+      "blade_visualization": "visualization/vz_blade.png",
       "label": ""
     }
   ],
@@ -319,7 +319,7 @@
       "tip_price": 0,
       "tip_vat": 0,
       "tip_photo": "photos/back_folded_tip.png",
-      "tip_vizualization": "vizualization/vz_back_folded_tip.png",
+      "tip_visualization": "visualization/vz_back_folded_tip.png",
       "label": ""
     },
     {
@@ -331,7 +331,7 @@
       "tip_price": 0,
       "tip_vat": 0,
       "tip_photo": "photos/rounded_tip.png",
-      "tip_vizualization": "vizualization/vz_rounded_tip.png",
+      "tip_visualization": "visualization/vz_rounded_tip.png",
       "label": ""
     },
     {
@@ -343,7 +343,7 @@
       "tip_price": 0,
       "tip_vat": 0,
       "tip_photo": "photos/spatulated_tip.png",
-      "tip_vizualization": "vizualization/vz_spatulated_tip.png",
+      "tip_visualization": "visualization/vz_spatulated_tip.png",
       "label": "recommended"
     }
   ],
@@ -357,7 +357,7 @@
       "grip_price": 0,
       "grip_vat": "0",
       "grip_photo": "photos/oval.png",
-      "grip_vizualization": "vizualization/vz_oval.png",
+      "grip_visualization": "visualization/vz_oval.png",
       "label": ""
     },
     {
@@ -369,7 +369,7 @@
       "grip_price": 10,
       "grip_vat": "2,1",
       "grip_photo": "photos/octagonal_waisted.png",
-      "grip_vizualization": "vizualization/vz_octagonal_waisted.png",
+      "grip_visualization": "visualization/vz_octagonal_waisted.png",
       "label": "recomended"
     },
     {
@@ -381,7 +381,7 @@
       "grip_price": 10,
       "grip_vat": "2,1",
       "grip_photo": "photos/rectangle_waisted.png",
-      "grip_vizualization": "vizualization/vz_rectangle_waisted.png",
+      "grip_visualization": "visualization/vz_rectangle_waisted.png",
       "label": ""
     }
   ],
@@ -431,7 +431,7 @@
       "pommel_price": 0,
       "pommel_vat": 0,
       "pommel_photo": "photos/pear.png",
-      "pommel_vizualization": "vizualization/vz_pear.png",
+      "pommel_visualization": "visualization/vz_pear.png",
       "label": ""
     },
     {
@@ -444,7 +444,7 @@
       "pommel_price": 0,
       "pommel_vat": 0,
       "pommel_photo": "photos/mushroom.png",
-      "pommel_vizualization": "vizualization/vz_mushroom.png",
+      "pommel_visualization": "visualization/vz_mushroom.png",
       "label": ""
     },
     {
@@ -457,7 +457,7 @@
       "pommel_price": 0,
       "pommel_vat": 0,
       "pommel_photo": "photos/sphere.png",
-      "pommel_vizualization": "vizualization/vz_sphere.png",
+      "pommel_visualization": "visualization/vz_sphere.png",
       "label": ""
     },
     {
@@ -470,7 +470,7 @@
       "pommel_price": 0,
       "pommel_vat": 0,
       "pommel_photo": "photos/slim_pear.png",
-      "pommel_vizualization": "vizualization/vz_slim_pear.png",
+      "pommel_visualization": "visualization/vz_slim_pear.png",
       "label": ""
     },
     {
@@ -483,7 +483,7 @@
       "pommel_price": 0,
       "pommel_vat": 0,
       "pommel_photo": "photos/parfume.png",
-      "pommel_vizualization": "vizualization/vz_parfume.png",
+      "pommel_visualization": "visualization/vz_parfume.png",
       "label": "recommended"
     },
     {
@@ -496,7 +496,7 @@
       "pommel_price": 0,
       "pommel_vat": 0,
       "pommel_photo": "photos/faceted_mushroom.png",
-      "pommel_vizualization": "vizualization/vz_faceted_mushroom.png",
+      "pommel_visualization": "visualization/vz_faceted_mushroom.png",
       "label": ""
     },
     {
@@ -509,7 +509,7 @@
       "pommel_price": 0,
       "pommel_vat": 0,
       "pommel_photo": "photos/faceted_pear.png",
-      "pommel_vizualization": "vizualization/vz_faceted_pear.png",
+      "pommel_visualization": "visualization/vz_faceted_pear.png",
       "label": ""
     }
   ],
@@ -778,7 +778,7 @@
       "grip_finish_price": 0,
       "grip_finish_vat": 0,
       "grip_finish_photo": "photos/cord.png",
-      "grip_finish_vizualization": "vizualization/vz_cord.png",
+      "grip_finish_visualization": "visualization/vz_cord.png",
       "label": ""
     },
     {
@@ -791,7 +791,7 @@
       "grip_finish_price": 0,
       "grip_finish_vat": 0,
       "grip_finish_photo": "photos/double_cord.png",
-      "grip_finish_vizualization": "vizualization/vz_double_cord.png",
+      "grip_finish_visualization": "visualization/vz_double_cord.png",
       "label": ""
     },
     {
@@ -804,7 +804,7 @@
       "grip_finish_price": 0,
       "grip_finish_vat": 0,
       "grip_finish_photo": "photos/spiral_leather.png",
-      "grip_finish_vizualization": "vizualization/vz_spiral_leather.png",
+      "grip_finish_visualization": "visualization/vz_spiral_leather.png",
       "label": ""
     },
     {
@@ -817,7 +817,7 @@
       "grip_finish_price": 0,
       "grip_finish_vat": 0,
       "grip_finish_photo": "photos/double_spiral_leather.png",
-      "grip_finish_vizualization": "vizualization/vz_double_spiral_leather.png",
+      "grip_finish_visualization": "visualization/vz_double_spiral_leather.png",
       "label": ""
     },
     {
@@ -830,7 +830,7 @@
       "grip_finish_price": 0,
       "grip_finish_vat": 0,
       "grip_finish_photo": "photos/wired_leather.png",
-      "grip_finish_vizualization": "vizualization/vz_wired_leather.png",
+      "grip_finish_visualization": "visualization/vz_wired_leather.png",
       "label": ""
     },
     {
@@ -843,7 +843,7 @@
       "grip_finish_price": 0,
       "grip_finish_vat": 0,
       "grip_finish_photo": "photos/ribbed_leather.png",
-      "grip_finish_vizualization": "vizualization/vz_ribbed_leather.png",
+      "grip_finish_visualization": "visualization/vz_ribbed_leather.png",
       "label": ""
     }
   ],
