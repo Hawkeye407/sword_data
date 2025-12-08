@@ -51,16 +51,16 @@
       "label": ""
     }
   ],
-  "crossguard_lenght": [
+  "crossguard_length": [
     {
-      "crossguard_lenght_id": 25,
-      "crossguard_lenght_name": 25,
+      "crossguard_length_id": 25,
+      "crossguard_length_name": 25,
       "size": 25,
       "label": ""
     },
     {
-      "crossguard_lenght_id": 28,
-      "crossguard_lenght_name": 28,
+      "crossguard_length_id": 28,
+      "crossguard_length_name": 28,
       "size": 28,
       "label": "recommended"
     }
