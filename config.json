@@ -847,82 +847,82 @@
       "label": ""
     }
   ],
-  "grip_lenght": [
+  "grip_length": [
     {
-      "grip_lenght_id": "28",
-      "grip_lenght_name": 28,
+      "grip_length_id": "28",
+      "grip_length_name": 28,
       "size": 28,
       "tip_compatibility": "back_folded_tip, rounded_tip",
       "blade_lenght_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
     {
-      "grip_lenght_id": "29",
-      "grip_lenght_name": 29,
+      "grip_length_id": "29",
+      "grip_length_name": 29,
       "size": 29,
       "tip_compatibility": "back_folded_tip, rounded_tip",
       "blade_lenght_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
     {
-      "grip_lenght_id": "30",
-      "grip_lenght_name": 30,
+      "grip_length_id": "30",
+      "grip_length_name": 30,
       "size": 30,
       "tip_compatibility": "back_folded_tip, rounded_tip",
       "blade_lenght_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
     {
-      "grip_lenght_id": "31",
-      "grip_lenght_name": 31,
+      "grip_length_id": "31",
+      "grip_length_name": 31,
       "size": 31,
       "tip_compatibility": "back_folded_tip, rounded_tip",
       "blade_lenght_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
     {
-      "grip_lenght_id": "32",
-      "grip_lenght_name": 32,
+      "grip_length_id": "32",
+      "grip_length_name": 32,
       "size": 32,
       "tip_compatibility": "back_folded_tip, rounded_tip",
       "blade_lenght_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
     {
-      "grip_lenght_id": "33",
-      "grip_lenght_name": 33,
+      "grip_length_id": "33",
+      "grip_length_name": 33,
       "size": 33,
       "tip_compatibility": "back_folded_tip, rounded_tip",
       "blade_lenght_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
     {
-      "grip_lenght_id": "34",
-      "grip_lenght_name": 34,
+      "grip_length_id": "34",
+      "grip_length_name": 34,
       "size": 34,
       "tip_compatibility": "back_folded_tip, rounded_tip",
       "blade_lenght_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
     {
-      "grip_lenght_id": "35",
-      "grip_lenght_name": 35,
+      "grip_length_id": "35",
+      "grip_length_name": 35,
       "size": 35,
       "tip_compatibility": "back_folded_tip, rounded_tip",
       "blade_lenght_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": "recommended"
     },
     {
-      "grip_lenght_id": "spatulated_tip_34",
-      "grip_lenght_name": 34,
+      "grip_length_id": "spatulated_tip_34",
+      "grip_length_name": 34,
       "size": 34,
       "tip_compatibility": "spatulated_tip",
       "blade_lenght_compatibility": "100",
       "label": ""
     },
     {
-      "grip_lenght_id": "spatulated_tip_35",
-      "grip_lenght_name": 35,
+      "grip_length_id": "spatulated_tip_35",
+      "grip_length_name": 35,
       "size": 35,
       "tip_compatibility": "spatulated_tip",
       "blade_lenght_compatibility": "104",
