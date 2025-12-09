@@ -913,17 +913,17 @@
       "label": "recommended"
     },
     {
-      "grip_length_id": "spatulated_tip_34",
-      "grip_length_name": 34,
+      "grip_length_id": "spatulated_tip_32",
+      "grip_length_name": 32,
       "size": 34,
       "tip_compatibility": "spatulated_tip",
       "blade_lenght_compatibility": "100",
       "label": ""
     },
     {
-      "grip_length_id": "spatulated_tip_35",
-      "grip_length_name": 35,
-      "size": 35,
+      "grip_length_id": "spatulated_tip_34",
+      "grip_length_name": 34,
+      "size": 34,
       "tip_compatibility": "spatulated_tip",
       "blade_lenght_compatibility": "104",
       "label": "recommended"
